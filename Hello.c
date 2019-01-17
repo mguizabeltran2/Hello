@@ -10,6 +10,7 @@
 
   int main(int argc, char **argv) {
     printf("Maria!\n");
+    printf("Fine Art");
 
     return 0;
   }
